@@ -1,0 +1,77 @@
+# ==============================================================================
+# GENERAL & EDITORES (Aplica a la raíz y a cualquier subcarpeta)
+# ==============================================================================
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*~
+.cache/
+
+# ==============================================================================
+# NODE.JS (Express, React, Next.js y React-Native)
+# ==============================================================================
+# Dependencias
+**/node_modules/
+/**/node_modules/
+
+# Carpetas de compilación y salida
+**/dist/
+**/dist-ssr/
+**/build/
+**/out/
+
+# Logs de error comunes
+*.log
+**/npm-debug.log*
+**/yarn-debug.log*
+**/yarn-error.log*
+**/pnpm-debug.log*
+
+# Archivos locales de Next.js y React
+**/.next/
+**/.expo/
+**/.wxml_cache/
+
+# ==============================================================================
+# PYTHON (Django y FastAPI)
+# ==============================================================================
+# Archivos compilados y cachés
+**/__pycache__/
+**/*.py[cod]
+**/*$py.class
+**/.pytest_cache/
+**/.mypy_cache/
+**/.hypothesis/
+
+# Entornos virtuales
+**/.venv/
+**/venv/
+**/env/
+**/ENV/
+**/env.bak/
+**/venv.bak/
+
+# Base de datos local (Muy importante para tus CRUDs de Django/FastAPI)
+**/*.sqlite3
+**/test.db
+
+# ==============================================================================
+# JAVA (Spring Boot)
+# ==============================================================================
+# Archivos de compilación de herramientas Java
+**/target/
+**/.gradle/
+**/build-spring/
+
+# ==============================================================================
+# VARIABLES DE ENTORNO Y SEGURIDAD (¡Fundamental!)
+# ==============================================================================
+**/.env
+**/.env.local
+**/.env.*.local
+**/local_settings.py
