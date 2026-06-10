@@ -12,49 +12,26 @@ lorem
     |___ Practic
         |
         |_____ DJango
-        |     |
-        |     |_____ README.md
         |
         |_____ Express
-        |     |
-        |     |_____ README.md
         |
         |_____ FastAPI
-        |     |
-        |     |_____ README.md
         |
         |_____ MongoDB
-        |     |
-        |     |_____ README.md
         |
         |_____ MySql
-        |     |
-        |     |_____ README.md
         |
         |_____ NestJs
-        |     |
-        |     |_____ README.md
         |
         |_____ NextJs
-        |     |
-        |     |_____ README.md
         |
         |_____ PostgreSql
-        |     |
-        |     |_____ README.md
         |
         |_____ React
-        |     |
-        |     |_____ README.md
         |
         |_____ React-Native
-        |     |
-        |     |_____ README.md
         |
         |_____ SpringBoot
-        |     |
-        |     |_____ README.md
-        |
         |
         |_____ README.md
 ```  
