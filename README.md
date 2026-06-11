@@ -3,9 +3,6 @@
     <h1>Practic Repository</h1>
 </div>
 
-
-# 🚀 Practic Repository
-
 ¡Bienvenido! Este es mi espacio personal de desarrollo. Aquí guardo todos mis proyectos, ejercicios y prácticas de código para dominar diferentes tecnologías y mejorar mis habilidades como desarrollador.
 
 ---
@@ -15,21 +12,21 @@
 Para organizar y estructurar mis prácticas, utilizo este conjunto de herramientas, marcos de trabajo y bases de datos:
 
 ### Backend & Frameworks
-![Django](https://shields.io)
-![Express.js](https://shields.io)
-![FastAPI](https://shields.io)
-![NestJS](https://shields.io)
-![Spring Boot](https://shields.io)
+- [Django](https://www.djangoproject.com/)
+- [Express.js](https://expressjs.com/es/)
+- [FastAPI](https://fastapi.tiangolo.com/)
+- [NestJS](https://nestjs.com/)
+- [Spring Boot](https://spring.io/)
 
 ### Frontend & Mobile
-![React](https://shields.io)
-![React Native](https://shields.io)
-![Next.js](https://shields.io)
+- [React](https://react.dev/)
+- [React Native](https://reactnative.dev/)
+- [Next.js](https://nextjs.org/)
 
 ### Bases de Datos
-![MySQL](https://shields.io)
-![MongoDB](https://shields.io)
-![PostgreSQL](https://shields.io)
+- [MySQL](https://www.mysql.com/)
+- [MongoDB](https://www.mongodb.com/docs/)
+- [PostgreSQL](https://www.postgresql.org/)
 
 ---
 
