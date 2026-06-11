@@ -4,34 +4,72 @@
 </div>
 
 
-lorem
+# 🚀 Practic Repository
+
+¡Bienvenido! Este es mi espacio personal de desarrollo. Aquí guardo todos mis proyectos, ejercicios y prácticas de código para dominar diferentes tecnologías y mejorar mis habilidades como desarrollador.
 
 ---
 
-```cmd
-    |___ Practic
-        |
-        |_____ DJango
-        |
-        |_____ Express
-        |
-        |_____ FastAPI
-        |
-        |_____ MongoDB
-        |
-        |_____ MySql
-        |
-        |_____ NestJs
-        |
-        |_____ NextJs
-        |
-        |_____ PostgreSql
-        |
-        |_____ React
-        |
-        |_____ React-Native
-        |
-        |_____ SpringBoot
-        |
-        |_____ README.md
+## 🛠️ Tecnologías que Manejo
+
+Para organizar y estructurar mis prácticas, utilizo este conjunto de herramientas, marcos de trabajo y bases de datos:
+
+### Backend & Frameworks
+![Django](https://shields.io)
+![Express.js](https://shields.io)
+![FastAPI](https://shields.io)
+![NestJS](https://shields.io)
+![Spring Boot](https://shields.io)
+
+### Frontend & Mobile
+![React](https://shields.io)
+![React Native](https://shields.io)
+![Next.js](https://shields.io)
+
+### Bases de Datos
+![MySQL](https://shields.io)
+![MongoDB](https://shields.io)
+![PostgreSQL](https://shields.io)
+
+---
+
+## 🖼️ Vista Previa del Proyecto
+
+Aquí puedes ver una captura de pantalla o diseño sobre mis prácticas de desarrollo:
+
+<!-- Reemplaza "tu_imagen.png" por la ruta o enlace real de tu imagen -->
+![Vista previa de las prácticas](tu_imagen.png)
+
+---
+
+## 📂 Estructura del Repositorio
+
+Así se organiza el código dentro de este proyecto para mantener cada tecnología separada:
+
+```text
+___ Practic
+ |____ DJango
+ |____ Express
+ |____ FastAPI
+ |____ MongoDB
+ |____ MySql
+ |____ NestJs
+ |____ NextJs
+ |____ PostgreSql
+ |____ React
+ |____ React-Native
+ |____ SpringBoot
+```
+
+---
+
+## 🎯 Objetivos de este Repositorio
+
+- **Aprender constantemente**: Mejorar la lógica de programación en cada tecnología.
+- **Crear bases sólidas**: Tener plantillas limpias listas para usar en proyectos grandes.
+- **Seguimiento diario**: Ver mi progreso como desarrollador a través del historial de Git.
+
+---
+👨‍💻 Creado con dedicación por [Duran24062005](https://github.com/Duran24062005).
+
 ```  
