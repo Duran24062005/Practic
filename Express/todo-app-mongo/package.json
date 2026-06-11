@@ -1,0 +1,34 @@
+{
+  "name": "todo-app-mongo",
+  "version": "1.0.0",
+  "description": "This is a crud simple like a practic project.",
+  "keywords": [
+    "todo",
+    "backend",
+    "app"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com"
+  },
+  "license": "MIT",
+  "author": "Alexi Dg",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js",
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^5.2.1",
+    "mongodb": "^7.3.0",
+    "mongoose": "^9.7.0",
+    "nodemon": "^3.1.14",
+    "validator": "^13.15.35"
+  },
+  "devDependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
