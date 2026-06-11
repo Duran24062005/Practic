@@ -30,15 +30,6 @@ Para organizar y estructurar mis prácticas, utilizo este conjunto de herramient
 
 ---
 
-## 🖼️ Vista Previa del Proyecto
-
-Aquí puedes ver una captura de pantalla o diseño sobre mis prácticas de desarrollo:
-
-<!-- Reemplaza "tu_imagen.png" por la ruta o enlace real de tu imagen -->
-![Vista previa de las prácticas](tu_imagen.png)
-
----
-
 ## 📂 Estructura del Repositorio
 
 Así se organiza el código dentro de este proyecto para mantener cada tecnología separada:
